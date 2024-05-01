@@ -2,9 +2,9 @@
  <img align="right" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/02293768-9242-47e1-bf8f-d084ba0a2d1d" width="350" height="280" />
 
 ## 
-- 🔭 I’m currently working on flutter.
-- 🌱 I’m currently learning Machine learning.
-- 👯 I’m looking to collaborate in flutter projects.
+- 🔭 I’m currently working on Java.
+- 🌱 I’m currently learning Spring Boot.
+- 👯 I’m looking to collaborate in full stack projects.
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: All polar bears are left handed.
