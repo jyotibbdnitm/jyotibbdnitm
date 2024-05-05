@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Java.
 - 🌱 I’m currently learning Spring Boot.
 - 👯 I’m looking to collaborate in full stack projects.
-- 💬 Ask me about ... Anything
+- 💬 Ask me about .... Anything
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: All polar bears are left handed.
 - ✨ Eat ↔️ Code ↔️ Sleep
