@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jyoti</h1>
 <h3 align="center">Backend Developer | Java & Spring Boot Enthusiast</h3>
 
-<img align="right" alt="Coding" width="350" height="250" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/02293768-9242-47e1-bf8f-d084ba0a2d1d" />
-
 ---
 
 ### 👩‍💻 About Me
