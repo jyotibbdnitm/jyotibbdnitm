@@ -17,15 +17,7 @@
 
 ### 🚀 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,hibernate,git,github,docker,linux,html,css,js&perline=7" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jyotibbdnitm&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotibbdnitm&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,git,github,docker,linux,html,css,js&perline=7" />
 </p>
 
 ---
