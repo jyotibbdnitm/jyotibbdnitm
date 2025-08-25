@@ -1,7 +1,5 @@
-<!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F70A8D&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jyoti+%F0%9F%91%8B;Backend+Developer+%7C+Java+%26+Spring+Boot;Problem+Solver+%7C+Tech+Enthusiast)](https://git.io/typing-svg)
-
----
+<h1 align="center">👩‍💻 Hi, I'm <span style="color:#F70A8D;">Jyoti</span></h1>
+<h3 align="center">Backend Developer | Java • Spring Boot • REST APIs • Databases</h3>
 
 
 
