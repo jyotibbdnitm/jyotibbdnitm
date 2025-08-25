@@ -1,5 +1,7 @@
-<h1 align="center">👩‍💻 Hi, I'm <span style="color:#F70A8D;">Jyoti</span></h1>
-<h3 align="center">Backend Developer | Java • Spring Boot • REST APIs • Databases</h3>
+<h1 align="center" style="color:#F70A8D;">✨ Hi, I'm Jyoti ✨</h1>
+<h3 align="center" style="color:#6C63FF;">Backend Developer | Java • Spring Boot • REST APIs • Databases</h3>
+
+---
 
 
 
