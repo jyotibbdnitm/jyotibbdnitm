@@ -3,12 +3,13 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img align="right" alt="Girl Coding" width="320" src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" />
+
 
 ### 👩‍💻 About Me  
-- 💼 Associate Software Engineer @ **GlobalLogic (Google Onsite)**  
+- 💼 Software Development Engineer @ **GlobalLogic (Google Onsite)**  
 - 🔭 Past: **Birlasoft** (Apprenticeship), **The Sparks Foundation** (Internship)  
-- 🌱 Passionate about **Backend Development, APIs & Clean Code**  
+- 🌱 Passionate about **Backend Development, APIs**  
 - 💬 Ask me about **Java, Spring Boot, Databases, DSA**  
 - 🏆 **Top 10% in TechGig Code Gladiator 2024**  
 - 🏅 **Spot Award Winner @ GlobalLogic 2024**  
