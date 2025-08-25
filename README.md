@@ -3,7 +3,6 @@
 
 ---
 
-<img align="right" alt="Girl Coding" width="320" src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" />
 
 
 ### 👩‍💻 About Me  
