@@ -11,7 +11,7 @@
 - 🌱 Passionate about **Backend Development, APIs**  
 - 💬 Ask me about **Java, Spring Boot, Databases, DSA**  
 - 🏆 **Top 10% in TechGig Code Gladiator 2024**  
-- 🏅 **Spot Award Winner @ GlobalLogic 2024**  
+- 🏅 **Spot Award Winner @ GlobalLogic**  
 - 😄 Pronouns: *she/her*  
 - ✨ Motto: *Eat ↔️ Code ↔️ Sleep ↔️ Repeat*  
 
